@@ -17,6 +17,9 @@ struct HomeView: View {
                 NavigationLink(destination: AccessibilityView02()) {
                     Text("Hiding and grouping accessibility data")
                 }
+                NavigationLink(destination: AccessibilityView03()) {
+                    Text("Reading the value of controls")
+                }
             }
             .navigationBarTitle("Accessibility examples")
         }
