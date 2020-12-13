@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUI_AccessibilityApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }

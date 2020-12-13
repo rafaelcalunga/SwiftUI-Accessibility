@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct AccessibilityView01: View {
     
     let pictures = [
         "ales-krivec-15949",
@@ -38,8 +38,8 @@ struct ContentView: View {
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct AccessibilityView01_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        AccessibilityView01()
     }
 }
