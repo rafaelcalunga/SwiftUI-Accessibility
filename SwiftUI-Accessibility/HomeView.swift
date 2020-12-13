@@ -14,6 +14,9 @@ struct HomeView: View {
                 NavigationLink(destination: AccessibilityView01()) {
                     Text("Identifying views with useful labels")
                 }
+                NavigationLink(destination: AccessibilityView02()) {
+                    Text("Hiding and grouping accessibility data")
+                }
             }
             .navigationBarTitle("Accessibility examples")
         }
