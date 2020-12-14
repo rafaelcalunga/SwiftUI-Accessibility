@@ -19,6 +19,7 @@
 /* Begin PBXFileReference section */
 		6D477CBB2586A32F00272EAA /* AccessibilityView02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessibilityView02.swift; sourceTree = "<group>"; };
 		6D477CBF2586A60E00272EAA /* AccessibilityView03.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessibilityView03.swift; sourceTree = "<group>"; };
+		6D477CC32587BC3C00272EAA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		6D84751125842F6900EAEFE9 /* SwiftUI-Accessibility.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Accessibility.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6D84751425842F6900EAEFE9 /* SwiftUI_AccessibilityApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_AccessibilityApp.swift; sourceTree = "<group>"; };
 		6D84751625842F6900EAEFE9 /* AccessibilityView01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessibilityView01.swift; sourceTree = "<group>"; };
@@ -44,6 +45,7 @@
 			children = (
 				6D84751325842F6900EAEFE9 /* SwiftUI-Accessibility */,
 				6D84751225842F6900EAEFE9 /* Products */,
+				6D477CC32587BC3C00272EAA /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
